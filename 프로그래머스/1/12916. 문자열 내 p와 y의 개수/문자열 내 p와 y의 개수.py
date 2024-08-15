@@ -17,4 +17,3 @@ def solution(s):
 
 
 
-    return t
