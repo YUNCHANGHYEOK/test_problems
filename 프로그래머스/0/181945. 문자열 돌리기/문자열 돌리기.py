@@ -1,3 +1,3 @@
 str = input()
 for i in str:
-    print(i,sep='\n')
+    print(i)
